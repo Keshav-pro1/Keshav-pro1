@@ -16,7 +16,7 @@
   <a href="https://github.com/Keshav-pro1"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;
   <a href="https://x.com/Keshav_pro1"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/keshav-gupta-83201431a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;
-  <a href="keshavgupta07delhi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtMkNJHJmklwRRDQSJrQzzCMTXBBxZnVCqFjjzLvgMDfXkJrmKmQHqTPmVZsNmrQbCxCfPxq"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 
