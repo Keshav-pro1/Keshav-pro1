@@ -6,8 +6,6 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-pro1&label=Profile%20views&color=0e75b6&style=flat" alt="keshav-pro1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-pro1" alt="keshav-pro1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -47,20 +45,13 @@
 
   ### 👨‍💻 About Me
 
-- 🔭 Working on full-stack projects and backend systems  
-- 🛠️ Exploring Solidity, AI/ML, DevOps  
+- 🔭 Working on full-stack projects and AIML Model integrations
+- 🛠️ Exploring Solidity
 - 🧠 Problem-solving freak (LeetCode + GitHub)  
 - 💬 Ask me about full-stack, API dev, DSA, Open Source  
 - 🌱 Currently learning Blockchain & Smart Contracts  
 - 🧩 Always curious to learn & earn
 
-### 📊 GitHub Stats
 
-<p align="center">
-<div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Keshav-pro1&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-</div>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav-pro1&theme=tokyonight&layout=compact&hide_border=false" />
-</p>
 
 
