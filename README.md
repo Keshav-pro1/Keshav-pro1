@@ -6,8 +6,6 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-pro1" alt="keshav-pro1" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/imkeshav_gupta"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;&nbsp;
