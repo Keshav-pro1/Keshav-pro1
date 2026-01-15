@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Keshav Gupta</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=white&center=true&vCenter=true&repeat=true&width=800&lines=A+passionate+Frontend+Developer+%F0%9F%A7%A0;Also+a+Backend+Engineer+%F0%9F%9B%A0%EF%B8%8F;Blockchain+Enthusiast+%F0%9F%94%91+%7C+Solidity+Learner;DSA+Lover+%F0%9F%92%AD+and+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=white&center=true&vCenter=true&repeat=true&width=800&lines=A+passionate+Full Stack+Developer+%F0%9F%A7%A0;Also+an+AIML+Engineer+%F0%9F%9B%A0%EF%B8%8F;Blockchain+Enthusiast+%F0%9F%94%91+%7C+Solidity+Learner;DSA+Lover+%F0%9F%92%AD+and+Problem+Solver" alt="Typing SVG">
 </p>
 
 
@@ -17,7 +17,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
