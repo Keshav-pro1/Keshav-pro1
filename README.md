@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Keshav Gupta</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=white&center=true&vCenter=true&repeat=true&width=800&lines=A+passionate+Full +Stack+Developer+%F0%9F%A7%A0;Also+an+AIML+Engineer+%F0%9F%9B%A0%EF%B8%8F;Blockchain+Enthusiast+%F0%9F%94%91+%7C+Solidity+Learner;DSA+Lover+%F0%9F%92%AD+and+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=white&center=true&vCenter=true&repeat=true&width=800&lines=A+passionate+Full+Stack+Developer+%F0%9F%A7%A0;Also+an+AIML+Engineer+%F0%9F%9B%A0%EF%B8%8F;Blockchain+Enthusiast+%F0%9F%94%91+%7C+Solidity+Learner;DSA+Lover+%F0%9F%92%AD+and+Problem+Solver" alt="Typing SVG">
 </p>
 
 
